@@ -1,90 +1,107 @@
-<mxfile host="app.diagrams.net" modified="2022-03-24T21:59:31.356Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="wBPedYXWdvr1sS4fKqJs" version="17.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-05T03:08:51.124Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="VZJCclVSXZI3w1R2Xmvq" version="17.2.4" type="github" pages="2">
   <diagram id="sxZsbNgtkvgik6gsLs6E" name="Page-1">
     <mxGraphModel dx="2512" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="jPb6rCDkinjR2MNKdoZc-13" value="pizza" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-62.5" y="30" width="620" height="740" as="geometry" />
+          <mxGeometry x="-62.5" y="50" width="620" height="740" as="geometry" />
         </mxCell>
         <mxCell id="jPb6rCDkinjR2MNKdoZc-17" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.forms.splitter;strokeColor=#999999;fontSize=25;" parent="1" vertex="1">
           <mxGeometry x="-62.5" y="160" width="620" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="tWh7wu0dtDbybgmwgoOG-1" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Pasi&#39;s pizza ordering system&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="87.5" y="60" width="255" height="70" as="geometry" />
+        <mxCell id="tWh7wu0dtDbybgmwgoOG-1" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Pasi&#39;s pizza ordering system&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="100" y="80" width="255" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="tWh7wu0dtDbybgmwgoOG-3" value="regulars $8.50&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="tWh7wu0dtDbybgmwgoOG-3" value="regulars $8.50&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="-60" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tWh7wu0dtDbybgmwgoOG-4" value="Gourmet $13.50" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="tWh7wu0dtDbybgmwgoOG-4" value="Gourmet $13.50" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="400" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tWh7wu0dtDbybgmwgoOG-6" value="BEEF AND ONION" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="tWh7wu0dtDbybgmwgoOG-6" value="BEEF AND ONION" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="410" y="250" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tWh7wu0dtDbybgmwgoOG-7" value="MEAT LOVER" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="tWh7wu0dtDbybgmwgoOG-7" value="MEAT LOVER" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="410" y="290" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tWh7wu0dtDbybgmwgoOG-8" value="CHEESE PIZZA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="tWh7wu0dtDbybgmwgoOG-8" value="CHEESE PIZZA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="410" y="330" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tWh7wu0dtDbybgmwgoOG-10" value="BBQ CHICKEN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="tWh7wu0dtDbybgmwgoOG-10" value="BBQ CHICKEN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="410" y="375" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tWh7wu0dtDbybgmwgoOG-11" value="HAWAIAN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="tWh7wu0dtDbybgmwgoOG-11" value="HAWAIAN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="410" y="420" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tWh7wu0dtDbybgmwgoOG-12" value="BUFFILO PIZZA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="tWh7wu0dtDbybgmwgoOG-12" value="BUFFILO PIZZA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="-70" y="250" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tWh7wu0dtDbybgmwgoOG-13" value="CLASSIC CHEESE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="tWh7wu0dtDbybgmwgoOG-13" value="CLASSIC CHEESE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="-70" y="300" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tWh7wu0dtDbybgmwgoOG-14" value="VEGGIE PIZZA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="tWh7wu0dtDbybgmwgoOG-14" value="VEGGIE PIZZA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="-70" y="360" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tWh7wu0dtDbybgmwgoOG-15" value="MARGHERITA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="tWh7wu0dtDbybgmwgoOG-15" value="MARGHERITA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="-60" y="405" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tWh7wu0dtDbybgmwgoOG-16" value="BRRF SUPREEM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="tWh7wu0dtDbybgmwgoOG-16" value="BRRF SUPREEM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="-60" y="450" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tWh7wu0dtDbybgmwgoOG-17" value="PEPPERONI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="tWh7wu0dtDbybgmwgoOG-17" value="PEPPERONI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="-60" y="500" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tWh7wu0dtDbybgmwgoOG-18" value="HORSY SIANA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="tWh7wu0dtDbybgmwgoOG-18" value="HORSY SIANA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="-70" y="550" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tWh7wu0dtDbybgmwgoOG-21" value="&lt;font style=&quot;font-size: 11px&quot;&gt;SELECT PIZZA&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="1">
+        <mxCell id="tWh7wu0dtDbybgmwgoOG-21" value="&lt;font style=&quot;font-size: 11px&quot;&gt;SELECT PIZZA&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" parent="1" vertex="1">
           <mxGeometry x="110" y="255" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="tWh7wu0dtDbybgmwgoOG-28" value="&lt;font style=&quot;font-size: 11px&quot;&gt;SELECT PIZZA&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="1">
+        <mxCell id="tWh7wu0dtDbybgmwgoOG-28" value="&lt;font style=&quot;font-size: 11px&quot;&gt;SELECT PIZZA&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" parent="1" vertex="1">
           <mxGeometry x="110" y="290" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="tWh7wu0dtDbybgmwgoOG-29" value="$8.50" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="tWh7wu0dtDbybgmwgoOG-29" value="$8.50" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="250" y="250" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tWh7wu0dtDbybgmwgoOG-33" value="0.00" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="tWh7wu0dtDbybgmwgoOG-33" value="0.00" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="250" y="285" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tWh7wu0dtDbybgmwgoOG-34" value="HAM AND CHEESE&lt;br&gt;&lt;br&gt;PINAPLE PIZZA" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="tWh7wu0dtDbybgmwgoOG-34" value="HAM AND CHEESE&lt;br&gt;&lt;br&gt;PINAPLE PIZZA" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="110" y="320" width="130" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="tWh7wu0dtDbybgmwgoOG-35" value="0.00" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="tWh7wu0dtDbybgmwgoOG-35" value="0.00" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="250" y="340" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tWh7wu0dtDbybgmwgoOG-36" value="0.00" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="tWh7wu0dtDbybgmwgoOG-36" value="0.00" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="250" y="370" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tWh7wu0dtDbybgmwgoOG-37" value="&lt;span style=&quot;font-size: 11px&quot;&gt;SELECT PIZZA&lt;/span&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="1">
+        <mxCell id="tWh7wu0dtDbybgmwgoOG-37" value="&lt;span style=&quot;font-size: 11px&quot;&gt;SELECT PIZZA&lt;/span&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" parent="1" vertex="1">
           <mxGeometry x="110" y="435" width="130" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="tWh7wu0dtDbybgmwgoOG-38" value="" style="endArrow=none;html=1;rounded=0;fontSize=11;" edge="1" parent="1">
+        <mxCell id="tWh7wu0dtDbybgmwgoOG-38" value="" style="endArrow=none;html=1;rounded=0;fontSize=11;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="110" y="370" as="sourcePoint" />
             <mxPoint x="240" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="fFc4ETOJWK7eFSao7qJj-2" value="customer details." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fFc4ETOJWK7eFSao7qJj-3" value="0211514633" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="610" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fFc4ETOJWK7eFSao7qJj-4" value="2/32 mimi road&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="580" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="NRCz4QOLoO2_4lQvSVjr" name="Page-2">
+    <mxGraphModel dx="1662" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
